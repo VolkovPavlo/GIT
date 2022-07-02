@@ -1,1 +1,6 @@
-
+{
+  "title": "bug_report",
+  "summary": "Description",
+  "Preconditions": "STR",
+  "Expected result": "Actual result"
+}
